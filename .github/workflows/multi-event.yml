@@ -19,6 +19,3 @@ jobs:
                 echo "Job ID: $GITHUB_JOB"
                 echo "Actions: $GITHUB_ACTIONS"
                 echo "Actor: $GITHUB_ACTOR"
-
-
-
